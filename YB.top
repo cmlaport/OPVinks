@@ -1,0 +1,12 @@
+#include "christine.ff/parameters.itp"
+#include "christine.ff/y6.itp"
+#include "christine.ff/CBZ.itp"
+
+[ system ]
+; Name
+Y6 in CB
+
+[ molecules ]
+; Compound        #mols
+y6		  81
+chlorobenzene     9400

@@ -1,0 +1,12 @@
+#include "christine.ff/parameters.itp"
+#include "christine.ff/pm6_hexamer.itp"
+#include "christine.ff/aa-CF.itp"
+
+[ system ]
+; Name
+PM6 in CFM
+
+[ molecules ]
+; Compound        #mols
+pm6_hexamer	  15
+trichloromethane  12500

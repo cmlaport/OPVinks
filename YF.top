@@ -1,0 +1,12 @@
+#include "christine.ff/parameters.itp"
+#include "christine.ff/y6.itp"
+#include "christine.ff/aa-CF.itp"
+
+[ system ]
+; Name
+Y6 in CF
+
+[ molecules ]
+; Compound        #mols
+y6		  81
+trichloromethane  11700

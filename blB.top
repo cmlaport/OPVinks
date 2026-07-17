@@ -1,0 +1,14 @@
+#include "christine.ff/parameters.itp"
+#include "christine.ff/pm6_hexamer.itp"
+#include "christine.ff/y6.itp"
+#include "christine.ff/CBZ.itp"
+
+[ system ]
+; Name
+PM6&Y6 in CB
+
+[ molecules ]
+; Compound        #mols
+pm6_hexamer       9 
+y6		  48 
+chlorobenzene     9000
